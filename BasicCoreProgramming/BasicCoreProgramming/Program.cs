@@ -6,8 +6,8 @@ namespace BasicCoreProgramming
     {
         static void Main(string[] args)
         {
-            LeapYear lp = new LeapYear();
-            lp.CheckLeap();
+            QuotientandRemainder qm = new QuotientandRemainder();
+            qm.QuoRem();
         }
     }
 }
