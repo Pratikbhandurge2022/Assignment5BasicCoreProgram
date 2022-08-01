@@ -6,8 +6,8 @@ namespace BasicCoreProgramming
     {
         static void Main(string[] args)
         {
-            Factors pm = new Factors();
-            pm.PrimeFactors();
+            Harmonic hm = new Harmonic();
+            hm.NthHarmonic(8);
         }
     }
 }
