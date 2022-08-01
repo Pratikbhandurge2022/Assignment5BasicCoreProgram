@@ -6,8 +6,8 @@ namespace BasicCoreProgramming
     {
         static void Main(string[] args)
         {
-            LargestAmongThreeNumbers LN = new LargestAmongThreeNumbers();
-            LN.LargestNumber();
+            LeapYear lp = new LeapYear();
+            lp.CheckLeap();
         }
     }
 }
