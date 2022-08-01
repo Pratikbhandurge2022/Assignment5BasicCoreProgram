@@ -6,8 +6,8 @@ namespace BasicCoreProgramming
     {
         static void Main(string[] args)
         {
-            SwapTwoNumbers s = new SwapTwoNumbers();
-            s.Swap();
+            VowelorConsonant VW = new VowelorConsonant();
+            VW.VowelCons('o');
         }
     }
 }
