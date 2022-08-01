@@ -6,8 +6,8 @@ namespace BasicCoreProgramming
     {
         static void Main(string[] args)
         {
-            Harmonic hm = new Harmonic();
-            hm.NthHarmonic(8);
+            LargestAmongThreeNumbers LN = new LargestAmongThreeNumbers();
+            LN.LargestNumber();
         }
     }
 }
