@@ -6,8 +6,8 @@ namespace BasicCoreProgramming
     {
         static void Main(string[] args)
         {
-            QuotientandRemainder qm = new QuotientandRemainder();
-            qm.QuoRem();
+            SwapTwoNumbers s = new SwapTwoNumbers();
+            s.Swap();
         }
     }
 }
