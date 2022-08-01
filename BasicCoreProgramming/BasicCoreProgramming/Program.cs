@@ -6,8 +6,8 @@ namespace BasicCoreProgramming
     {
         static void Main(string[] args)
         {
-            EvenOddNumbers EO = new EvenOddNumbers();
-            EO.EvenOrOdd();
+            Factors pm = new Factors();
+            pm.PrimeFactors();
         }
     }
 }
